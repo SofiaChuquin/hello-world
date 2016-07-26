@@ -1,2 +1,3 @@
 # hello-world
-my first repo
+
+My name is Sofia and I like cooking.
